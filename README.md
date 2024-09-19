@@ -1,7 +1,7 @@
 ## Hi there, I'm Strath! 👋
 
 - I'm interested in learning more about the fascinating world of Data Science! 🤓📚🖥️ 
-- I'm currently working on a range of data-driven projects spanning medicine 👨‍⚕️, business 👨‍💼, and physics 👨‍🔬!
+- I'm currently working on a range of fun data-driven projects spanning medicine 👨‍⚕️, business 👨‍💼, and physics 👨‍🔬!
 - In my free time, I train in Muay Thai 🥊 and football ⚽!
 
 <!--
