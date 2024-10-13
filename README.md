@@ -1,6 +1,6 @@
 ## Hi there, I'm Strath! 👋
 
-- I'm interested in learning more about the fascinating world of Data Science! 🤓📚🖥️ 
+- I'm interested in learning more about the fascinating world of data science! 🤓📚🖥️ 
 - I'm currently working on a range of fun data-driven projects spanning medicine 👨‍⚕️, business 👨‍💼, and engineering 👨‍🔬!
 
 <!--
