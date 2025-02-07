@@ -1,6 +1,6 @@
 ## Hi there, I'm Strath! 👋
 
-- I'm currently studying MSc Data Science at The University of Edinburgh! 🤓📚🖥️ 
+- I'm am a postgraduate student in Data Science at The University of Edinburgh! 🤓📚🖥️ 
 - I'm currently working on projects in computer vision 👁️📷 and machine learning systems 🧠!
 <!--
 **strathlumsden/strathlumsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
