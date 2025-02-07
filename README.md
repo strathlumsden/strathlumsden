@@ -1,8 +1,7 @@
 ## Hi there, I'm Strath! 👋
 
-- I'm interested in learning more about the fascinating world of data science! 🤓📚🖥️ 
-- I'm currently working on a range of fun data-driven projects spanning medicine 👨‍⚕️, business 👨‍💼, and engineering 👨‍🔬!
-
+- I'm currently studying MSc Data Science at The University of Edinburgh! 🤓📚🖥️ 
+- I'm currently working on projects in computer vision 👁️📷 and machine learning systems 🧠!
 <!--
 **strathlumsden/strathlumsden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
